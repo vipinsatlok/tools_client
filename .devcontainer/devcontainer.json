@@ -7,11 +7,12 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "PKief.material-icon-theme",
-        "rodrigovallades.es7-react-js-snippets",
-        "esbenp.prettier-vscode",
-        "TabNine.tabnine-vscode"
-      ]
+		"PKief.material-icon-theme",
+		"rodrigovallades.es7-react-js-snippets",
+		"esbenp.prettier-vscode",
+		"TabNine.tabnine-vscode",
+		"bradlc.vscode-tailwindcss"
+	]
     }
   }
 
